@@ -68,7 +68,7 @@
 
 - Mijnendonckx Billy
 	- e-mailadres: billy.mijnendonckx@student.kdg.be
-	- github: https://github.com/bmijnendonckx/software-engineering-oplossingen.git
+	- github: https://github.com/bmijnendonckx/kdg-software-engineering-uno
 
 - Milivojevic Boris
 	- e-mailadres: boris.milivojevic@student.kdg.be
